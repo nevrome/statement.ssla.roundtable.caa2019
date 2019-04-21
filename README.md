@@ -4,7 +4,7 @@ For about 50 years archaeologists have been using computational methods to answe
 
 I suggest the Special Interest Group (SIG) for Scripting Languages in Archaeology (SSLA) to become a vehicle for software sharing and long-term maintenance. It should provide a collaborative and organizational framework for joint work and responsibility to create new and to prevent further loss of already established methodological knowledge.
 
-There are several organisations trying to provide this service in a research subject agnostic way, most notably the rOpenSci community. rOpenSci members develop research software in R, provide code reviews for their colleagues, promote releases and use cases, and pick up relevant projects that are at risk of getting lost due to -- among other things -- changes in employment situations, illness, or even the death of maintainers.
+There are several organisations trying to provide this service in a research subject agnostic way, most notably the [rOpenSci](https://ropensci.org/) community. rOpenSci members develop research software in R, provide code reviews for their colleagues, promote releases and use cases, and pick up relevant projects that are at risk of getting lost due to -- among other things -- changes in employment situations, illness, or even the death of maintainers.
 
 I admire this project, but I also believe that it has two main weaknesses: Its limitation to R and its interdisciplinarity. Neither is inherently bad, but for the specific applications of archaeology and cultural anthropology, a more thematically focused and technically open community might be more appropriate. The SIG SSLA could close that gap.
 
