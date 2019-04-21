@@ -1,7 +1,5 @@
 # (Don't Fear) The Reaper. A SIG as long term software maintenance network?
 
-Dear Colleagues,
-
 For about 50 years archaeologists have been using computational methods to answer archaeological questions. A considerable part of the many thousands of resulting papers relied on interpreted languages. Unfortunately, most of this software was never published or distributed in a reproducible way.
 
 I suggest the Special Interest Group (SIG) for Scripting Languages in Archaeology (SSLA) to become a vehicle for software sharing and long-term maintenance. It should provide a collaborative and organizational framework for joint work and responsibility to create new and to prevent further loss of already established methodological knowledge.
